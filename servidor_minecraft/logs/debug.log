@@ -11135,3 +11135,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 4:
 [31May2025 03:37:31.392] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: korstarck lost connection: Disconnected
 [31May2025 03:37:31.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: korstarck left the game
 [31May2025 03:37:31.395] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: remove player wand
+[31May2025 03:42:12.502] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31May2025 03:42:12.526] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31May2025 03:47:12.498] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31May2025 03:47:12.522] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
