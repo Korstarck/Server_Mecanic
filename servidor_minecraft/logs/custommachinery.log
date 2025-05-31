@@ -1,11 +1,11 @@
-[03:32:06.388][INFO]: Parsing all .json files in machines folder.
-[03:32:06.396][INFO]: Finished, 0 .json files successfully parsed in machines folder.
-[03:32:06.396][INFO]: Parsing all .json files in upgrades folder.
-[03:32:06.403][INFO]: Finished, 0 .json files successfully parsed in upgrades folder.
-[03:32:07.763][INFO]: Reading Custom Machinery Machines...
-[03:32:07.764][INFO]: Finished creating custom machines.
-[03:32:07.764][INFO]: Reading Custom Machinery Upgrades json
-[03:32:07.764][INFO]: No machine upgrade json found.
-[03:32:07.764][INFO]: Collecting machine upgrades with kubeJS.
-[03:32:07.766][INFO]: No machine upgrades found with kubejs
-[03:32:07.766][INFO]: Finished creating custom machine upgrades.
+[05:15:54.309][INFO]: Parsing all .json files in machines folder.
+[05:15:54.315][INFO]: Finished, 0 .json files successfully parsed in machines folder.
+[05:15:54.315][INFO]: Parsing all .json files in upgrades folder.
+[05:15:54.320][INFO]: Finished, 0 .json files successfully parsed in upgrades folder.
+[05:15:55.609][INFO]: Reading Custom Machinery Machines...
+[05:15:55.610][INFO]: Finished creating custom machines.
+[05:15:55.610][INFO]: Reading Custom Machinery Upgrades json
+[05:15:55.610][INFO]: No machine upgrade json found.
+[05:15:55.610][INFO]: Collecting machine upgrades with kubeJS.
+[05:15:55.612][INFO]: No machine upgrades found with kubejs
+[05:15:55.612][INFO]: Finished creating custom machine upgrades.
